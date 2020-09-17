@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "331079313788",
+    "firebase_url": "https://foodpricingsystem.firebaseio.com",
+    "project_id": "foodpricingsystem",
+    "storage_bucket": "foodpricingsystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331079313788:android:78577c5908ee41f7dd5cf9",
+        "android_client_info": {
+          "package_name": "com.naveedbangash.kppricingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331079313788-fcil81ealc03e6e6t421ccdfcquugm8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0weXgW7jTQsFE_MRwK-9U_FvZQhdtqoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331079313788-fcil81ealc03e6e6t421ccdfcquugm8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
